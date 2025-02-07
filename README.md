@@ -1,6 +1,6 @@
-## Hi there, I am Samson Chinthenga 👋
-
-<img src="https://www.freepik.com/free-ai-image/night-sky-with-planets-galaxies-scene-generative-ai_40932913.htm#fromView=keyword&page=1&position=3&uuid=44f05c73-af29-4aa0-a945-57f15c013f94&from_element=home_trends&query=Space+Background"></img>
+<h1 align="center">Hi 👋, i am George Jere </h1>
+<h3 align="center">A passionate FullStack Developer, Generative AI and computer vision engineer from Malawi </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--
 **Samson-prog254/Samson-prog254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
