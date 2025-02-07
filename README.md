@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, i am George Jere </h1>
-<h3 align="center">A passionate FullStack Developer, Generative AI and computer vision engineer from Malawi </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, i am Samson Chinthenga </h1>
+<h3 align="center"> </h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=790b7611fpdu2hjcvmnyfs04b8f1oogmauofbg3rjyjvo4si&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <!--
 **Samson-prog254/Samson-prog254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
