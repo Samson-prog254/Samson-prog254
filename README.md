@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=790b7611fpdu2hjcvmnyfs04b8f1oogmauofbg3rjyjvo4si&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=790b7611fpdu2hjcvmnyfs04b8f1oogmauofbg3rjyjvo4si&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" alt="Coding GIF">
 </p>
 
 ---
