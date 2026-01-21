@@ -29,7 +29,6 @@ I am a **Software Developer** with expertise in **Flutter**, **React Native**, a
 - 💼 LinkedIn: [Samson Chinthenga](#) *(www.linkedin.com/in/
 samson-chinthenga-5ab6aa321
 *  
-- 🐦 Twitter: [@YourHandle](#) *(Add your Twitter/X handle here if applicable)*  
 
 ### ⚡ Fun Fact  
 I love **solving problems** with code, and I believe **technology can change lives**.  
