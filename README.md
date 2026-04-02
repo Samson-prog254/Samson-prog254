@@ -35,4 +35,4 @@ I’ve built production apps where I own the **Flutter/React Native frontend**, 
 
 > “Turning complex problems into elegant, user‑centric solutions — one line of code at a time.”
 
-Flutter · React Native · Node · Python · React — full‑spectrum dev & redesign specialist
+Flutter · React Native · Node · Python  · React, express js — full‑spectrum dev & redesign specialist
