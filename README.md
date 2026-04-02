@@ -1,38 +1,32 @@
-<h1 align="center">Hi 👋, I'm Samson Chinthenga</h1>
-<h3 align="center">A Passionate Software Developer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=790b7611fpdu2hjcvmnyfs04b8f1oogmauofbg3rjyjvo4si&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800"   alt="Coding GIF">
-</p>
+</div>
 
 ---
 
-### 👨‍💻 About Me  
-I am a **Software Developer** with expertise in **Flutter**, **React Native**, and various other technologies. I enjoy building mobile and web applications that solve real-world problems.
+<div align="center">
 
-### 🚀 What I'm Working On  
-- 🔭 **Currently developing:** A **health product delivery app** using Flutter and Firebase  
-- 📱 **Building:** AI-integrated mobile apps  
-- 🎯 **Focused on:** Enhancing user experience and AI-driven solutions  
+### 📫 Let's Connect
 
-### 📚 Learning & Collaboration  
-- 🌱 **Currently learning:** Advanced AI & Machine Learning for mobile applications  
-- 👯 **Looking to collaborate on:** Open-source projects, AI-powered apps, and mobile development  
+<a href="mailto:samsonchinthenga29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" />
+</a>
+<a href="https://www.linkedin.com/in/samson-chinthenga-5ab6aa321">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" />
+</a>
+<a href="https://github.com/samsonchinthenga">
+  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" />
+</a>
 
-### 💡 Ask Me About  
-- 📱 Mobile app development (Flutter, React Native)  
-- 💻 Full-stack development  
-- 🤖 AI & chatbot integration  
-
-### 📫 Connect with Me  
-- 📧 Email: **samsonchinthenga29@gmail.com**  
-- 💼 LinkedIn: [Samson Chinthenga](#) *(www.linkedin.com/in/
-samson-chinthenga-5ab6aa321
-*  
-
-### ⚡ Fun Fact  
-I love **solving problems** with code, and I believe **technology can change lives**.  
+</div>
 
 ---
 
-✨ **_Let's build something amazing together!_** 🚀
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=samsonchinthenga&color=22d3ee&style=flat-square&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
+
+</div>
