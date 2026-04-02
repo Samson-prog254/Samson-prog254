@@ -7,7 +7,7 @@ Cross‑platform engineer building fast, reliable products end‑to‑end.
 - 🟢 **Available for opportunities**
 
 ## Quick links
-- Email: `samsonchinthenga29@gmail.com`
+- Email: `samsonchinthenga8@gmail.com`
 - LinkedIn: https://www.linkedin.com/in/samson-chinthenga-5ab6aa321
 - GitHub: https://github.com/samsonchinthenga
 
@@ -16,7 +16,7 @@ Cross‑platform engineer building fast, reliable products end‑to‑end.
 ## About
 I’m a **cross‑platform mobile engineer** (**Flutter** · **React Native**) who also builds **scalable backends** (Node.js, Python, Firebase) and crafts **modern web experiences** (React/Next, Tailwind). I deliver complete, user‑first solutions — from database design to pixel‑perfect interfaces.
 
-## Tech arsenal
+## Tech Stack
 **📱 Mobile:** Flutter · React Native · Dart · Swift (basics)
 
 **⚙️ Backend:** Node.js · Express · Python · Firebase · MongoDB · PostgreSQL
@@ -24,27 +24,6 @@ I’m a **cross‑platform mobile engineer** (**Flutter** · **React Native**) w
 **🌐 Web:** React · Next.js · TypeScript · Tailwind · HTML/CSS
 
 **🧰 DevOps & Tools:** Git · Docker · GitHub Actions · GCP · Postman · Figma
-
-## Featured projects
-A few highlights (happy to share demos, links, or case studies on request):
-
-- **Health Product Delivery** — Flutter · Firebase · AI recommendations  
-  AI‑powered health delivery with real‑time tracking, smart recommendations, and seamless checkout.
-
-- **AI Chatbot Platform** — React Native · Node.js · OpenAI  
-  Cross‑platform conversational AI with memory, custom personality tuning, and multi‑tenant support.
-
-- **E‑Commerce Platform** — React · Node.js · MongoDB  
-  Full‑stack marketplace with admin dashboard, payments, and real‑time inventory/order tracking.
-
-- **TaskFlow (SaaS)** — React Native · Node.js · PostgreSQL  
-  Team productivity suite with real‑time updates, file attachments, and role‑based access.
-
-- **Fitness Tracker App** — Flutter · Firebase  
-  Workout plans, progress charts, social challenges, and health data sync.
-
-- **Portfolio 2025 (Redesign)** — React · Tailwind · Framer Motion  
-  Modern interactive portfolio with responsive layout and smooth animations.
 
 ## Design & UI approach
 I don’t just build — I **redesign with intention**. I collaborate with designers (or create UI myself) using **Figma** and modern CSS. Focus areas: information hierarchy, micro‑interactions, accessibility, and consistent components across mobile + web.
